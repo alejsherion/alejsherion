@@ -1,7 +1,6 @@
 <p align="center" width="300">
    <img
-   style="width:250px; height:200px; object-fit:cover;
-   border-radius:50%"
+   style="width:250px; height:200px; object-fit:cover;border-radius:50%"
    align="center" width="200" src="./resources/profile_picture.jpg" />
    <h3 align="center">👋 ¡Hi I’m Alejandro Vargas! 👋</h3>
 </p>
