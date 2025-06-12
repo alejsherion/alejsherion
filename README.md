@@ -1,6 +1,6 @@
 <!-- Centered profile image -->
 <p align="center">
-  <img src="./resources/profile_picture.jpg" width="150" alt="Alejandro Vargas" style="border-radius: 50%;" />
+  <img src="./resources/resources/profile_picture.removebackground.png" width="150" alt="Alejandro Vargas" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi there! I'm Alejandro Vargas 👋</h1>
